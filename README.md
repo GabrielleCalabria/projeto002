@@ -25,7 +25,7 @@ It’s a visual exercise designed to practice layout, positioning, and responsiv
 
 ## 🌐 Deployment
 
-This project is deployed using **GitHub Pages**
+This project is deployed using **GitHub Pages** [https://gabriellecalabria.github.io/html-css-cordel-animation/]
 
 ---
 
